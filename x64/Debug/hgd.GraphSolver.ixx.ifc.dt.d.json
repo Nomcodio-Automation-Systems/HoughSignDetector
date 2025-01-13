@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\vsprojects\\houghsigndetector\\houghsigndetector\\hgd.graphsolver.ixx",
+        "ProvidedModule": "hgd.GraphSolver",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

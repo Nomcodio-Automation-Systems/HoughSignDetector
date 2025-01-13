@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\vsprojects\\houghsigndetector\\houghsigndetector\\hgd.graphsolver.ixx",
+        "ProvidedModule": "hgd.GraphSolver",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector"
+        ]
+    }
+}
