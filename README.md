@@ -24,6 +24,7 @@ To build and run this project, you will need:
 
    ```bash
    git clone https://github.com/<your-username>/HoughSignDetector.git
-   cd HoughSignDetector
+   cd HoughSignDetector```
+2.
    It was build for Visual Studio but there is no OS specific code. You only need to get OpenCV and add the dependencies
    Into the project
